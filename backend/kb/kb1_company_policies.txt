@@ -1,0 +1,16 @@
+Company Name: Nexora Technologies
+
+Code of Conduct:
+- Employees must adhere to all security and confidentiality agreements.
+- Dress code is business casual unless otherwise specified.
+- Attendance should be regular; three unexcused absences in a month lead to a warning.
+
+Remote Work Policy:
+- Remote work is allowed up to 3 days per week.
+- Employees must log in by 9:00 AM and be available on Slack.
+- Monthly remote check-ins are required with team leads.
+
+Leave Policy:
+- 15 paid vacation days per year.
+- 10 sick days annually, which can be carried over to the next year.
+- Maternity/Paternity leave as per provincial law.

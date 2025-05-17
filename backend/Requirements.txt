@@ -1,0 +1,16 @@
+# Knowledge Base QA System - Backend Requirements
+# API Framework
+fastapi>=0.95.0
+uvicorn>=0.21.1
+python-multipart>=0.0.6
+pydantic>=1.10.7
+# ML Libraries
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4 # Use faiss-gpu for GPU acceleration
+numpy>=1.24.2
+# HTTP and Utilities
+requests>=2.28.2
+python-dotenv>=1.0.0
+uuid>=1.30
+# For file processing
+pathlib>=1.0.1
